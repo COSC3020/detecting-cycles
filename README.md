@@ -7,8 +7,9 @@ template I provided in `code.js`. You can use any data structures (i.e. any
 graph representation) you like. The function should return `true` or `false`,
 depending on whether the given graph contains a cycle or not.
 
-I have not provided any test code; you can base yours on test code from other
-exercises.
+I have not provided any test code, but you can base yours on test code from
+other exercises. Your tests must check the correctness of the result of running
+the function and run automatically when you commit through a GitHub action.
 
 ## Runtime Analysis
 
