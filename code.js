@@ -1,3 +1,4 @@
-// eslint-disable-next-line no-unused-varsfunction hasCycle(graph) {
+// eslint-disable-next-line no-unused-vars
+function hasCycle(graph) {
     return false;
 }
